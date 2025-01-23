@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* header */
+
+header {
+    padding: 0;
+    background-color: #1f2937;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    list-style: none;
+    padding-top: 0;
+    margin: 0;
+}
+
+.logo {
+    margin-right: auto;
+    color: #e5e7eb;
+    font-size: 50px;
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+
+}
+
+/* main content */
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+.first-div {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 40px 110px;
+    display: flex;
+    gap: 18px;
+}
+
+.main-text {
+    font-size: 48px;
+    color: f9faf8;
+    font-weight: 900;
+}
+
+.first-button {
+    background-color: #3882f6;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    font-weight: 800;
+}
+
+.imagem {
+    height: 250px;
+    width: 500px;
+}
+
+/* the second part of main */ 
+
+.second-div {
+    text-align: center;
+    margin-bottom: 110px;
+}
+
+.info-header {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+.figure {
+    height: 100px;
+    width: 120px;
+}
+
+figure {
+    padding: 0;
+    margin: 18px;
+    display: inline-block; 
+    justify-content: flex-start;
+    align-items: flex-start;
+    
+}
+
+figcaption {
+    width: 120px;
+}
+
+/* the third part of the main section */
+
+.third-div {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+}
+
+.quote {
+    text-align: center;
+    font-size: 36px;
+    padding: 40px 300px;
+    padding-bottom: 0;
+    font-style: italic;
+    font-weight: 200;
+    color: #1f2947;
+    margin: 0;
+}
+
+.author {
+    align-self: flex-end;
+    padding-right: 300px;
+    padding-top: 0;
+    margin: 0;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.fourth-div {
+    padding: 40px 250px;
+}
+
+.last-content {
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    color: #e5e7eb;
+    padding: 0;
+}
+
+.last-button {
+    border: 1px solid white;
+    background-color: #3882f6;
+    padding: 10px;
+
+}
+
