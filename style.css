@@ -11,7 +11,7 @@ body {
 /* header */
 
 header {
-    padding: 0;
+    padding: 10px;
     background-color: #1f2937;
 }
 
@@ -66,6 +66,7 @@ main {
     border: none;
     color: white;
     font-weight: 800;
+    cursor: pointer;
 }
 
 .imagem {
@@ -133,6 +134,8 @@ figcaption {
     font-size: 19px;
 }
 
+/* the last past of main content */
+
 .fourth-div {
     padding: 40px 250px;
 }
@@ -149,7 +152,21 @@ figcaption {
 .last-button {
     border: 1px solid white;
     background-color: #3882f6;
-    padding: 10px;
-
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 35px;
+    color: #e5e7eb;
+    border-radius: 6px;
+    font-weight: 900;
+    cursor: pointer;
 }
 
+/* FOOTER */
+
+footer {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    text-align: center;
+}
