@@ -2,11 +2,12 @@
 
 IMAGE AUTHORS:
 
-Image by <a href="https://pixabay.com/users/gabyps-1992700/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1210567">gabriele gabi</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1210567">Pixabay</a>
+Foto de Vinícius Vieira ft: https://www.pexels.com/pt-br/foto/bandeira-do-brasil-2560337/
 
-Image by <a href="https://pixabay.com/users/soel84-5568026/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2379443">soel84</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2379443">Pixabay</a>
+Foto de Caio  : https://www.pexels.com/pt-br/foto/fotografia-arquitetonica-da-cidade-45917/
 
-Image by <a href="https://pixabay.com/users/david_peterson-4745048/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2526564">David Peterson</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2526564">Pixabay</a>
+Foto de Marco Antonio Victorino: https://www.pexels.com/pt-br/foto/estatua-do-cristo-redentor-2771080/
 
-Image by <a href="https://pixabay.com/users/luni39-1962423/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1164513">luni39</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1164513">Pixabay</a>
+Foto de Florencia Potter: https://www.pexels.com/pt-br/foto/cordilheira-e-corpo-d-agua-351283/
 
+Foto de Anna Kapustina: https://www.pexels.com/pt-br/foto/pessoas-se-divertindo-com-uma-bandeira-amarela-e-verde-1191548/
